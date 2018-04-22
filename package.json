@@ -13,7 +13,7 @@
     "kawaii",
     "sweet"
   ],
-  "repository": "https://github.com/atom/candy-syntax",
+  "repository": "https://github.com/ovocriative/candy-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
