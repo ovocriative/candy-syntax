@@ -1,0 +1,21 @@
+{
+  "name": "candy-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Candy color text theme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "candy",
+    "dark",
+    "colorful",
+    "fun",
+    "kawaii",
+    "sweet"
+  ],
+  "repository": "https://github.com/atom/candy-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
